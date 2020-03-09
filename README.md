@@ -1,3 +1,3 @@
-# xunved
+# Devnux :: xunved
 
-Linux,Unix,Solaris,_Other_
+> Linux, Unix, Solaris, _Other_
